@@ -35,4 +35,4 @@ edit-in-editor(){
 	edit-command-line
 }
 zle -N edit-in-editor
-bindkey '^e' edit-in-editro
+bindkey '^e' edit-in-editor
